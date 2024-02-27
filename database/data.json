@@ -1,0 +1,46 @@
+{
+  "Student": [
+    {
+      "name": "Adarsh",
+      "age": 21,
+      "email": "adarsh727@gmail.com",
+      "roll": 111,
+      "id": "1"
+    },
+    {
+      "name": "Alkesh Chaturvedi",
+      "age": "25",
+      "email": "alkesh25@gmail.com",
+      "roll": 112,
+      "id": "2"
+    },
+    {
+      "name": "Rohit",
+      "age": "24",
+      "email": "rohit@gmail.com",
+      "roll": "113",
+      "id": "3"
+    },
+    {
+      "name": "Shivam",
+      "age": "27",
+      "email": "shivam@gmail.com",
+      "roll": "114",
+      "id": "4"
+    },
+    {
+      "name": "Priya",
+      "age": "18",
+      "email": "Priya1232@gmail.com",
+      "roll": "115",
+      "id": "5"
+    },
+    {
+      "name": "Riya",
+      "age": "19",
+      "email": "riya421@gmail.com",
+      "roll": "116",
+      "id": "6"
+    }
+  ]
+}
