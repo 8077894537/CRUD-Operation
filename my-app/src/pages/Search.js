@@ -13,6 +13,8 @@ function Search() {
   return (
     <>
       <br /> <br /><br />
+      <div className='mx-auto col-7 m-5 data p-3' style={{ boxShadow: " 0px 0px 8px tomato", borderRadius: " 10px", background: "#f1f2f6" }}>
+
       <div className="input-group mb-3 mt-4">
         <input type="text" className="form-control" placeholder="Search Data"
           onChange={(e) => { setsearchkey(e.target.value) }} />
@@ -43,6 +45,7 @@ function Search() {
           })}
         </tbody> : <p>No Data</p>}
       </table>
+      </div>
       <br/> <br/> <br/>
     </>
   )
